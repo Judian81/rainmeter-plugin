@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PluginDataHandling": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Rainmeter\\Rainmeter.exe"
+    }
+  }
+}
